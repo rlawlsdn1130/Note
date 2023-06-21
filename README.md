@@ -36,6 +36,7 @@ https://github.com/bu-air-lab/RM_Isaac
 
 11. Orbit
 https://github.com/NVIDIA-Omniverse/Orbit
+
 # Awesome Series
 1. awesome-legged-locomotion-learning
 https://github.com/gaiyi7788/awesome-legged-locomotion-learning
@@ -86,14 +87,19 @@ https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
 
 # Simulator
 1. Isaac
+https://developer.nvidia.com/isaac-gym
 
 2. Gazebo
+https://gazebosim.org/home
 
 3. Mujoco
 https://github.com/deepmind/mujoco
+
 4. Raisim
+https://github.com/raisimTech/raisimLib
 
 5. Pybullet
+https://pybullet.org/wordpress/
 
 # MPC
 1. mujoco_mpc
