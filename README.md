@@ -80,6 +80,10 @@ https://github.com/stack-of-tasks/pinocchio
 https://github.com/isl-org/DeepLagrangianFluids
 ![canyon](https://github.com/rlawlsdn1130/Note/assets/88181153/51b17521-e296-4f73-b4a5-d1d944c80cfe)
 
+2. SPlisHSPlasH
+https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
+![teaser](https://github.com/rlawlsdn1130/Note/assets/88181153/18764674-d328-4660-9683-1c78196cc65e)
+
 # Simulator
 1. Isaac
 
