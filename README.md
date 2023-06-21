@@ -17,7 +17,7 @@ https://github.com/Improbable-AI/walk-these-ways
 5. rapid-locomotion-rl
 https://github.com/Improbable-AI/rapid-locomotion-rl
 
-6. BayesSimIG: Scalable Parameter Inference for Adaptive Domain Randomization with Isaac Gym
+6. BayesSimIG  (Scalable Parameter Inference for Adaptive Domain Randomization with Isaac Gym)
 https://github.com/NVlabs/bayes-sim-ig
 ![image](https://github.com/rlawlsdn1130/Note/assets/88181153/fec7fda7-97ba-48fe-a370-65f66a67dc41)
 
