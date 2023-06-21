@@ -1,7 +1,8 @@
 # Reinforcement Learning
 1. Spot Mini Mini OpenAI Gym Environment
 https://github.com/OpenQuadruped/spot_mini_mini
-![spot_rough_falls](https://github.com/rlawlsdn1130/Note/assets/88181153/a9f668d2-7164-4d4a-8c55-2ed3dbdb57fa)
+![spot_rough_falls](https://github.com/rlawlsdn1130/Note/assets/88181153/a5d4f5fb-55da-4c52-9298-6db3c04be243)
+
 
 2. S-RL Toolbox
 https://github.com/araffin/robotics-rl-srl
