@@ -1,3 +1,0 @@
-# Note
-
-Reinforcement Learning Libraries
