@@ -52,7 +52,6 @@ https://github.com/curieuxjy/Awesome_Quadrupedal_Robots
 5. awesome-isaac-gym
 https://github.com/wangcongrobot/awesome-isaac-gym
 
-
 # Tool
 1. Generated Terrain-Robustness Benchmark for Legged Locomotion
 https://github.com/zita-ch/terrain_benchmark
@@ -72,6 +71,9 @@ https://github.com/junja94/anymal_science_robotics_supplementary
 5. ign-omni : Connets Gazebo to Isaac Sim
 https://github.com/gazebosim/gz-omni
 ![image](https://github.com/rlawlsdn1130/Note/assets/88181153/bcfa36bd-3411-46fa-a8cf-f849f364ff70)
+
+6. pinocchio
+https://github.com/stack-of-tasks/pinocchio
 
 # Fluid
 1. Lagrangian Fluid Simulation with continuous convolutions
@@ -140,6 +142,10 @@ https://github.com/leggedrobotics/free_gait
 3. CT (Control Toolbox)
 https://github.com/ethz-adrl/control-toolbox
 
+4. legged_control
+https://github.com/qiayuanliao/legged_control
+![image](https://github.com/rlawlsdn1130/Note/assets/88181153/c89bdf03-deb8-45a7-b41b-66d7861968c8)
+
 # Docker
 1. learning_docker
 https://github.com/leggedrobotics/learning_docker
@@ -170,5 +176,8 @@ https://github.com/Denys88/rl_games
 https://github.com/leggedrobotics/rsl_rl
 
 # ROS
-1. Compliant Control and Application
+1. ros_control
+http://wiki.ros.org/ros_control
+
+2. Compliant Control and Application
 https://github.com/MingshanHe/Compliant-Control-and-Application
