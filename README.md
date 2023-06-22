@@ -66,7 +66,7 @@ https://github.com/mithi/hexapod
 https://github.com/leggedrobotics/SimBenchmark
 ![68747470733a2f2f6c6567676564726f626f746963732e6769746875622e696f2f53696d42656e63686d61726b2f61626f75742f616e796d616c2e676966 (1)](https://github.com/rlawlsdn1130/Note/assets/88181153/03c46d9d-60d3-407c-b972-cc404c6b2516)
 
-4. actuator_moder(net) - Hwangbo
+4. actuator_model(net) - Hwangbo
 https://github.com/junja94/anymal_science_robotics_supplementary
 
 5. ign-omni : Connets Gazebo to Isaac Sim
