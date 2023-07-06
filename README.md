@@ -1,43 +1,46 @@
 # Reinforcement Learning
-1. Spot Mini Mini OpenAI Gym Environment
+1. legged_gym
+https://github.com/leggedrobotics/legged_gym
+
+2. Spot Mini Mini OpenAI Gym Environment
 https://github.com/OpenQuadruped/spot_mini_mini
 ![spot_rough_falls](https://github.com/rlawlsdn1130/Note/assets/88181153/a5d4f5fb-55da-4c52-9298-6db3c04be243)
 
-2. S-RL Toolbox
+3. S-RL Toolbox
 https://github.com/araffin/robotics-rl-srl
 ![image](https://github.com/rlawlsdn1130/Note/assets/88181153/efa6b061-cc8d-4f9e-a067-ef4b61dd6e18)
 
-3. OmniIsaacGymEnvs-DofbotReacher
+4. OmniIsaacGymEnvs-DofbotReacher
 https://github.com/j3soon/OmniIsaacGymEnvs-DofbotReacher
 ![image](https://github.com/rlawlsdn1130/Note/assets/88181153/c53cba87-2a29-415e-a36b-7bc9d49b84f9)
 
-4. walk-these-ways
+5. walk-these-ways
 https://github.com/Improbable-AI/walk-these-ways
 
-5. rapid-locomotion-rl
+6. rapid-locomotion-rl
 https://github.com/Improbable-AI/rapid-locomotion-rl
 
-6. BayesSimIG  (Scalable Parameter Inference for Adaptive Domain Randomization with Isaac Gym)
+7. BayesSimIG  (Scalable Parameter Inference for Adaptive Domain Randomization with Isaac Gym)
 https://github.com/NVlabs/bayes-sim-ig
 ![image](https://github.com/rlawlsdn1130/Note/assets/88181153/775a067f-ad85-486d-aff5-ab8a28915ec8)
 
-7. RL-code-resources
+8. RL-code-resources
 https://github.com/TheMTank/RL-code-resources
 
-8. gym-ignition
+9. gym-ignition
 https://github.com/robotology/gym-ignition
 
-9. OmniIsaacGymEnvs
+10. OmniIsaacGymEnvs
 https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs
 ![184170040-3f76f761-e748-452e-b8c8-3cc1c7c8cb98 (1)](https://github.com/rlawlsdn1130/Note/assets/88181153/c1c4a77d-c50e-4d95-adaa-a558b2891a9e)
 
-10. RM_Isaac
+11. RM_Isaac
 https://github.com/bu-air-lab/RM_Isaac
 
-11. Orbit
+12. Orbit
 https://github.com/NVIDIA-Omniverse/Orbit
 
-12. RL-MPC-Locomotion
+13. RL-MPC-Locomotion
 https://github.com/silvery107/rl-mpc-locomotion
 ![4_cheetah_trot](https://github.com/rlawlsdn1130/Note/assets/88181153/48f61a71-2bbd-44ce-ad93-6a68388f230b)
 
