@@ -37,6 +37,10 @@ https://github.com/bu-air-lab/RM_Isaac
 11. Orbit
 https://github.com/NVIDIA-Omniverse/Orbit
 
+12. RL-MPC-Locomotion
+https://github.com/silvery107/rl-mpc-locomotion
+![4_cheetah_trot](https://github.com/rlawlsdn1130/Note/assets/88181153/48f61a71-2bbd-44ce-ad93-6a68388f230b)
+
 # Awesome Series
 1. awesome-legged-locomotion-learning
 https://github.com/gaiyi7788/awesome-legged-locomotion-learning
