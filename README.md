@@ -1,6 +1,6 @@
 # Reinforcement Learning
 1. legged_gym
-https://github.com/leggedrobotics/legged_gym
+[https://github.com/leggedrobotics/legged_gym]
 
 2. Spot Mini Mini OpenAI Gym Environment
 https://github.com/OpenQuadruped/spot_mini_mini
@@ -44,6 +44,12 @@ https://github.com/NVIDIA-Omniverse/Orbit
 https://github.com/silvery107/rl-mpc-locomotion
 ![4_cheetah_trot](https://github.com/rlawlsdn1130/Note/assets/88181153/48f61a71-2bbd-44ce-ad93-6a68388f230b)
 
+14. DexterousHands
+https://github.com/PKU-MARL/DexterousHands
+![quick_demo3](https://github.com/rlawlsdn1130/Note/assets/88181153/9dc52b6b-e6d9-4f87-b495-cfed6ac79979)
+
+---
+
 # Awesome Series
 1. awesome-legged-locomotion-learning
 https://github.com/gaiyi7788/awesome-legged-locomotion-learning
@@ -59,6 +65,8 @@ https://github.com/curieuxjy/Awesome_Quadrupedal_Robots
 
 5. awesome-isaac-gym
 https://github.com/wangcongrobot/awesome-isaac-gym
+
+---
 
 # Tool
 1. Generated Terrain-Robustness Benchmark for Legged Locomotion
@@ -83,6 +91,8 @@ https://github.com/gazebosim/gz-omni
 6. pinocchio
 https://github.com/stack-of-tasks/pinocchio
 
+---
+
 # Fluid
 1. Lagrangian Fluid Simulation with continuous convolutions
 https://github.com/isl-org/DeepLagrangianFluids
@@ -91,6 +101,8 @@ https://github.com/isl-org/DeepLagrangianFluids
 2. SPlisHSPlasH
 https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
 ![teaser](https://github.com/rlawlsdn1130/Note/assets/88181153/61f2a9b4-5f27-4476-9893-040b795c3364)
+
+---
 
 # Simulator
 1. Isaac
@@ -108,6 +120,8 @@ https://github.com/raisimTech/raisimLib
 5. Pybullet
 https://pybullet.org/wordpress/
 
+---
+
 # MPC
 1. mujoco_mpc
 https://github.com/deepmind/mujoco_mpc
@@ -118,6 +132,8 @@ https://github.com/HiroIshida/robust-tube-mpc
 
 3. MPC-Net
 https://github.com/leggedrobotics/MPC-Net
+
+---
 
 # Optimization
 1. robotoc - efficient ROBOT Optimal Control solvers
@@ -132,6 +148,7 @@ https://github.com/leggedrobotics/ocs2
 https://github.com/ethz-adrl/towr
 ![68747470733a2f2f692e696d6775722e636f6d2f384d34763461502e676966](https://github.com/rlawlsdn1130/Note/assets/88181153/ca3d7828-8f45-428e-aab6-5d135328ed0d)
 
+---
 
 # Solver
 1. PSOPT
@@ -149,6 +166,8 @@ https://github.com/coin-or/Ipopt
 5. SNOPT
 https://ampl.com/products/solvers/solvers-we-sell/snopt/
 
+---
+
 # Locomotion
 1. cpg-locomotion (Central Pattern Generator)
 https://github.com/dtch1997/cpg-locomotion
@@ -164,9 +183,13 @@ https://github.com/ethz-adrl/control-toolbox
 https://github.com/qiayuanliao/legged_control
 ![image](https://github.com/rlawlsdn1130/Note/assets/88181153/8fb73c90-fc5e-4e48-81d9-540bc14eb1e0)
 
+---
+
 # Docker
 1. learning_docker
 https://github.com/leggedrobotics/learning_docker
+
+---
 
 # Imitation Learning
 1. Motion Imitation
@@ -180,6 +203,8 @@ https://github.com/HybridRobotics/GenLoco
 3. opt-mimic-raisim
 https://github.com/yunifuchioka/opt-mimic-raisim
 
+---
+
 # Reinforcement Learning Libraries
 1. Stable-Base
 https://github.com/DLR-RM/stable-baselines3
@@ -192,6 +217,8 @@ https://github.com/Denys88/rl_games
 
 4. RSL_RL
 https://github.com/leggedrobotics/rsl_rl
+
+---
 
 # ROS
 1. ros_control
