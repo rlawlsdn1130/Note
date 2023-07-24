@@ -48,6 +48,9 @@ https://github.com/silvery107/rl-mpc-locomotion
 https://github.com/PKU-MARL/DexterousHands
 ![quick_demo3](https://github.com/rlawlsdn1130/Note/assets/88181153/9dc52b6b-e6d9-4f87-b495-cfed6ac79979)
 
+15. rl_locomotion [RMA: Rapid Motor Adaptation for Legged Robots]
+https://github.com/antonilo/rl_locomotion
+
 ---
 
 # Awesome Series
@@ -107,6 +110,9 @@ https://github.com/onlytailei/CppRobotics
 
 9. Quadruped-State-Estimation
 https://github.com/skywoodsz/Quadruped-State-Estimation
+
+10. Speed-comparision-of-some-QP-solvers
+https://github.com/ytwboxing/Speed-comparison-of-some-QP-solvers
 
 
 ---
@@ -200,6 +206,14 @@ https://github.com/ethz-adrl/control-toolbox
 4. legged_control
 https://github.com/qiayuanliao/legged_control
 ![image](https://github.com/rlawlsdn1130/Note/assets/88181153/8fb73c90-fc5e-4e48-81d9-540bc14eb1e0)
+
+5. qm_control
+https://github.com/skywoodsz/qm_control
+![qm_control](https://github.com/rlawlsdn1130/Note/assets/88181153/7e588e1b-8e6b-4832-ad10-fcf9245b25b1)
+
+6. vision_locomotion
+https://github.com/antonilo/vision_locomotion
+![vision_locomotion](https://github.com/rlawlsdn1130/Note/assets/88181153/efd55adb-5225-47eb-8126-0e53283d323a)
 
 ---
 
