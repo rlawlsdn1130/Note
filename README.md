@@ -66,6 +66,12 @@ https://github.com/curieuxjy/Awesome_Quadrupedal_Robots
 5. awesome-isaac-gym
 https://github.com/wangcongrobot/awesome-isaac-gym
 
+6. awesome-reinforcement-learning-papers
+https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers
+
+7. awesome-robotics-projects
+https://github.com/mjyc/awesome-robotics-projects
+
 ---
 
 # Tool
@@ -90,6 +96,18 @@ https://github.com/gazebosim/gz-omni
 
 6. pinocchio
 https://github.com/stack-of-tasks/pinocchio
+
+7. bevfusion
+https://github.com/mit-han-lab/bevfusion
+![bevfusion](https://github.com/rlawlsdn1130/Note/assets/88181153/6fbe56f8-c7fc-4da5-8a1c-789c9585b07a)
+
+8. CppRobotics
+https://github.com/onlytailei/CppRobotics
+![CppRobotics](https://github.com/rlawlsdn1130/Note/assets/88181153/426e6efa-8f6a-44e4-8dcd-b36b1de6ad7b)
+
+9. Quadruped-State-Estimation
+https://github.com/skywoodsz/Quadruped-State-Estimation
+
 
 ---
 
